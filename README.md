@@ -1,4 +1,4 @@
-# Placement Prep 2025
+# Placement Prep 2026
 MTech AI/ML placement preparation — DSA + Deep Learning + Projects
 
 ## Structure
